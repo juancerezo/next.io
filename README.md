@@ -1,5 +1,5 @@
 # next.io
-No more hells. Callbacks made easy, with error handlers and more.
+No more hell. Callbacks made easy, with error handlers and more.
 
 ### Unit test command (require mocha):
 
@@ -14,9 +14,9 @@ npm test
 ```
 -------------------
 
-### Using next.io:
+## Using next.io:
 
-#### Simple use:
+### Simple use:
 
 ##### Preparing:
 ``` javascript
@@ -41,7 +41,7 @@ to.do('data input', //required, ever you can use null
 );
 ```
 
-#### Use with handlers
+### Use with handlers
 
 ##### Preparing:
 
