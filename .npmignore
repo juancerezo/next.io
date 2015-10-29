@@ -43,3 +43,4 @@ Temporary Items
 .apdisk
 dev
 node_modules
+.git*

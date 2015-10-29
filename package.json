@@ -1,0 +1,42 @@
+{
+  "name": "next.io",
+  "version": "1.0.0",
+  "description": "No more hells. Callbacks made easy, with error handlers and more.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/juancerezo/next.io.git"
+  },
+  "keywords": [
+    "callback",
+    "callbacks",
+    "callback",
+    "functions",
+    "next",
+    "next",
+    "function",
+    "next.io",
+    "done",
+    "function",
+    "async",
+    "async",
+    "functions",
+    "asynchronous",
+    "asynchronous",
+    "functions",
+    "easy",
+    "callbacks"
+  ],
+  "author": "Juan Cerezo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juancerezo/next.io/issues"
+  },
+  "homepage": "https://github.com/juancerezo/next.io#readme"
+}
