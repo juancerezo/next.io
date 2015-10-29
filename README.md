@@ -16,7 +16,7 @@ npm test
 
 ### Using next.io:
 
-####Simple use:
+#### Simple use:
 
 ##### Preparing:
 ``` javascript
@@ -25,7 +25,6 @@ var to = next();
 ```
 
 ##### Running async functions:
-
 ``` javascript
 to.do('data input', //required, ever you can use null
   function (data, next) {
@@ -42,7 +41,7 @@ to.do('data input', //required, ever you can use null
 );
 ```
 
-####Use with handlers
+#### Use with handlers
 
 ##### Preparing:
 
@@ -81,7 +80,7 @@ to.do('data input', //required, ever you can use null
 var fs   = require ('fs');
 var next = require ('next.io');
 var to   = next({
-  
+
   error: function(data) {
     console.log('ERROR: ' + data);
   }

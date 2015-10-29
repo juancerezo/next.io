@@ -1,6 +1,6 @@
 {
   "name": "next.io",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "No more hells. Callbacks made easy, with error handlers and more.",
   "main": "index.js",
   "directories": {
