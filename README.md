@@ -1,6 +1,11 @@
 # next.io
 No more hell. Callbacks made easy, with error handlers and more.
 
+##Deprecated: This project has been discontinued.
+
+This was an experiment to understand how to execute callbacks one by one, without nested functions.
+You can continue using the `next.io` package. But, I recommend you use `asycn` for production projects. 
+
 ### Unit test command (require mocha):
 
 Install mocha globally:
